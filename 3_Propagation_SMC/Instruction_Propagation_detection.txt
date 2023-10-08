@@ -1,0 +1,5 @@
+The file "Raw_data" shows the raw slice pictures collected from "prepocessing image using imageJ.pptx".
+The Code 'Main_filter_diameter_selete_rolling_frames' is used to calculate the correlation of propagation vasomotion between 2.5um-30um (interval 2.5um)
+and the results are shown at path '3_Propagation_SMC\Results of rolling_data\information_R_value.xls', we can also observe each set of results separately.
+The Code 'Main_filter_diameter_selete_rolling_frames_matrix' is used to calculate the average correlation matrix of propagation vasomotion 
+and the results are shown at path '3_Propagation_SMC\Results of rolling_data_matrix\model_matrix.xls', we can also observe each set of results separately.

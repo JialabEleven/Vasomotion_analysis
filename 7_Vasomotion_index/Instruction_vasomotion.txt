@@ -1,0 +1,2 @@
+Code 'Main_vasomotion_calcium_index_detection' is used to extract diameter (radius, calcium) information (Frequency(Hz), Average_deltaD/D0(R/R0,F/F0), interval_mean(s), interval_SD,deltaD(R,F)) which is preprocessed in imageJ (Calcium dynamic in mural cell was reported using SMACreER:Ai96 mice or PDGFR¦Â:Ai96 mice, Calcium signal is collected using Image J by outlining shape of mural cell)
+And the results are shown at path '7_Vasomotion_index\data_deal_radius\Total_data.xls', we can also observe each set of results separately.

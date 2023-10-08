@@ -1,0 +1,5 @@
+Code 'Main_DTW_external_side1_radius_Vs_internal_side1_radius' is used to compare the similarity (CC and DTW) between internal radius and external radius of the same side.
+And the results are shown at path '6_CC_DTW_calculation\external_radius_Vs_internal_radius\R_distance_data.xls'.
+
+Code 'Main_DTW_internal_side1_radius_Vs_internal_side2_radius' is used to compare the similarity (CC and DTW) on both radius sides.
+And the results are shown at path '6_CC_DTW_calculation\side1_radius_Vs_side2_radius\R_distance_data.xls'.

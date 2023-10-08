@@ -1,0 +1,2 @@
+Code 'Main_test_frequency_vasomotion' is used to transform the time domain information of diameter (radius, calcium) into frequency domain (Calcium dynamic in mural cell was reported using SMACreER:Ai96 mice or PDGFR¦Â:Ai96 mice, Calcium signal is collected using Image J by outlining shape of mural cell).
+and the results are shown at path '2_Frequency_calculation\data_frequency_vasomotion\Total_data.xls', we can also observe each set of results separately.
